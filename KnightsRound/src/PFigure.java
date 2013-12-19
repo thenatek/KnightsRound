@@ -1,12 +1,3 @@
-// You need to properly comment and fully understand this file!
-
-// You are only allowed to change things if it is NECESSARY to do your project,
-// in which case you must comment what you changed and why.
-// Expect to lose significant points otherwise!
-
-// You don't have to finish any code in this file - just comment it well!
-// Be sure to remove and/or rewrite my comments!
-
 
 import java.awt.Color;
 import java.awt.Graphics;
